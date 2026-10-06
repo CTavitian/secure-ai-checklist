@@ -1,0 +1,9 @@
+name: Acme Field Services
+controls:
+  authz_tools: true
+  audit_log: true
+  pii_redaction: true
+  human_approval: true
+  secrets_env: true
+  eval_gate: true
+  model_allowlist: true

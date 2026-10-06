@@ -1,0 +1,9 @@
+name: Rushed Pilot Co
+controls:
+  authz_tools: false
+  audit_log: true
+  pii_redaction: false
+  human_approval: false
+  secrets_env: true
+  eval_gate: false
+  model_allowlist: false
