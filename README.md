@@ -17,6 +17,10 @@ npm run check -- --org fixtures/org-pass.yaml
 npm run check -- --org fixtures/org-fail.yaml   # exits non-zero
 ```
 
+## Status
+
+A learning project. The example data is made up.
+
 ## Licence
 
 MIT
